@@ -5,7 +5,6 @@ in a standalone URL scanner. Requires Python 3.9+ and only the standard library;
 no pip installation is necessary. Original tools are left intact.
 
 ```sh
-cd /home/shiva/tools/my_js_tool
 python3 my_js_tool.py https://example.com
 python3 my_js_tool.py -i https://example.com/assets/app.js
 python3 my_js_tool.py https://example.com --include-external
