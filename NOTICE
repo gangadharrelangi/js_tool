@@ -1,0 +1,8 @@
+my_js_tool combines patterns from:
+LinkFinder by Gerben Javado / Gerben Janssen van Doorn (MIT).
+https://github.com/GerbenJavado/LinkFinder
+SecretFinder by m4ll0k (GPL version 3).
+https://github.com/m4ll0k/SecretFinder
+The combined tool is distributed under GPL-3.0; see LICENSE.
+LinkFinder MIT notice is preserved in licenses/LinkFinder-MIT.txt.
+The HTTP crawler, CLI, reporting and tests are new code.
